@@ -1,5 +1,10 @@
-# ckad-bookmarks
-CKAD &amp; CKA Bookmarks
+# CKAD bookmarks
+A sample set of bookmarks to assist in the CKAD exam.
+
+## Disclaimer
+
+- Opinions expressed here are solely my own and do not express the views or opinions of JPMorgan Chase.
+- Any third-party trademarks are the intellectual property of their respective owners and any mention herein is for referential purposes only.
 
 # Download
 * Click the green download code button.
