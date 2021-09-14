@@ -1,5 +1,5 @@
 # CKAD bookmarks
-A sample set of bookmarks to assist in the CKAD exam.
+A set of bookmarks to assist in the CKAD exam.
 
 ## Disclaimer
 
