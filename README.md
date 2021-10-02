@@ -1,6 +1,8 @@
 # CKAD bookmarks
 A set of bookmarks to assist in the CKAD exam.
 
+![kubernetes-ckad-color-300x294](https://user-images.githubusercontent.com/18049790/135700746-b796e9c6-f768-483a-9935-199deeb27262.png)
+
 ## Disclaimer
 
 - Opinions expressed here are solely my own and do not express the views or opinions of JPMorgan Chase.
