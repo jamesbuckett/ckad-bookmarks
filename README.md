@@ -18,7 +18,8 @@ A set of bookmarks to assist in the CKAD exam.
 * Import into Chrome via
   * Top right, click the menu (three dots) item
   * `Bookmarks`...`Import bookmarks and settings...`
-  * In the Dropdown which currently shows `Microsoft Edge` select `Bookmarks HTML file`...`Choose File` button
+  * In the Dropdown which currently shows `Microsoft Edge` select `Bookmarks HTML file`
+  * `Choose File` button
   * Navigate to location where `ckad-cka.html` is located
   * Select `ckad-cka.html`...`Open`
 
