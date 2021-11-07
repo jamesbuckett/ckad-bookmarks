@@ -7,10 +7,12 @@ A set of bookmarks to assist in the CKAD exam.
 
 - Opinions expressed here are solely my own and do not express the views or opinions of JPMorgan Chase.
 - Any third-party trademarks are the intellectual property of their respective owners and any mention herein is for referential purposes only.
+<br />
 
 ## Download
 * Click the green download code button.
 * Unzip the downloaded file, it will contain the `ckad-cka.html` file.
+<br />
 
 ## Import
 * Import into Chrome via
