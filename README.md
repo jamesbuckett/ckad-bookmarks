@@ -28,3 +28,4 @@ In the Bookmark Bar look for a new Folder called `Imported`
 The CKAD and CKA bookmarks will be inside this folder.
 
 *End of Section*
+<br />
