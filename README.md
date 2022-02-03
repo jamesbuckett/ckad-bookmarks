@@ -1,5 +1,11 @@
 # CKAD bookmarks
-A set of bookmarks to assist in the CKAD exam.
+* A set of bookmarks to assist in the CKAD exam
+* The CKAD exam is an open book exam and you are permitted to open one additional tab in order to access [assets](https://docs.linuxfoundation.org/tc-docs/certification/certification-resources-allowed#certified-kubernetes-administrator-cka-and-certified-kubernetes-application-developer-ckad) from:
+  * https://helm.sh/docs
+  * https://kubernetes.io/docs
+  * https://github.com/kubernetes
+  * https://kubernetes.io/blog
+* This repository is a set of curated links from https://kubernetes.io/docs 
 
 ![kubernetes-ckad-color-300x294](https://user-images.githubusercontent.com/18049790/135700746-b796e9c6-f768-483a-9935-199deeb27262.png)
 
