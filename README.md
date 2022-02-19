@@ -1,5 +1,7 @@
 # CKAD bookmarks
 
+File Updates and Fixes
+
 A warm welcome to the CKAD Study Group for Q1 2022
 
 * A set of bookmarks to assist in the CKAD exam
