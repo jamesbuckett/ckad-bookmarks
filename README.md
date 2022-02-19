@@ -1,9 +1,5 @@
 # CKAD bookmarks
 
-File Updates and Fixes
-
-A warm welcome to the CKAD Study Group for Q1 2022
-
 * A set of bookmarks to assist in the CKAD exam
 * The CKAD exam is an open book exam and you are permitted to open one additional tab in order to access [assets](https://docs.linuxfoundation.org/tc-docs/certification/certification-resources-allowed#certified-kubernetes-administrator-cka-and-certified-kubernetes-application-developer-ckad) from:
   * https://helm.sh/docs
