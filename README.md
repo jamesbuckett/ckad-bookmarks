@@ -10,6 +10,10 @@
 
 ![kubernetes-ckad-color-300x294](https://user-images.githubusercontent.com/18049790/135700746-b796e9c6-f768-483a-9935-199deeb27262.png)
 
+## Bonus Content 
+* The bottom four folders related to the [CKA](https://www.cncf.io/certification/cka/) exam 
+* The CKS bookmark relates to the [CKS](https://www.cncf.io/certification/cks/) exam
+
 ## Disclaimer
 
 - Opinions expressed here are solely my own and do not express the views or opinions of JPMorgan Chase.
@@ -18,7 +22,7 @@
 
 ## Download
 * Click the green download code button.
-* Unzip the downloaded file, it will contain the `ckad-cka.html` file.
+* Unzip the downloaded file, it will contain the `ckad-cka-cks.html` file.
 <br />
 
 ## Import
