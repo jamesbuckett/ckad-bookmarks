@@ -27,12 +27,12 @@
   * `Bookmarks`...`Import bookmarks and settings...`
   * In the Dropdown which currently shows `Microsoft Edge` select `Bookmarks HTML file`
   * Select the `Choose File` button
-  * Navigate to location where `ckad-cka.html` is located
-  * Select `ckad-cka.html`...`Open`
+  * Navigate to location where `ckad-cka-cks.html` is located
+  * Select `ckad-cka-cks.html`...`Open`
 
 In the Bookmark Bar look for a new Folder called `Imported`
 
-The CKAD and CKA bookmarks will be inside this folder.
+The CKAD, CKA and CKS bookmarks will be inside this folder.
 
 *End of Section*
 <br />
