@@ -4,6 +4,9 @@
 * This repository can no longer be used for the CKAD exam
 * This repository can now only be used for reference purposes
 * This is due the the CNCF migrating from the [PSI’s ExamsLocal platform to the PSI Bridge platform](https://training.linuxfoundation.org/bridge-migration-2021/)
+  * "Personal browser bookmarks (such as bookmarked links to YAML files) will not be accessible within the PSI Secure Browser"
+  * "Links to CNCF documentation, considered most helpful to complete your work, have been added to a Quick Reference box within each item’s instructions" 
+  * "Access to published Resources Allowed will still be permitted within the Exam Environment"
 
 ## Permitted Domains
 * A set of reference bookmarks for the CKAD exam
