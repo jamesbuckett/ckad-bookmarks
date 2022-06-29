@@ -1,10 +1,11 @@
 # CKAD bookmarks
 
-UPDATE
+## UPDATE
 * This repository can no longer be used for the CKAD exam
 * This repository can now only be used for reference purposes
 * This is due the the CNCF migrating from the [PSI’s ExamsLocal platform to the PSI Bridge platform](https://training.linuxfoundation.org/bridge-migration-2021/)
 
+## Permitted Domains
 * A set of reference bookmarks for the CKAD exam
 * The CKAD exam is an open book exam and you are permitted to access [assets](https://docs.linuxfoundation.org/tc-docs/certification/certification-resources-allowed#certified-kubernetes-administrator-cka-and-certified-kubernetes-application-developer-ckad) from:
   * https://helm.sh/docs
