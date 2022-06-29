@@ -1,7 +1,12 @@
 # CKAD bookmarks
 
-* A set of bookmarks to assist in the CKAD exam
-* The CKAD exam is an open book exam and you are permitted to open one additional tab in order to access [assets](https://docs.linuxfoundation.org/tc-docs/certification/certification-resources-allowed#certified-kubernetes-administrator-cka-and-certified-kubernetes-application-developer-ckad) from:
+UPDATE
+* This repository can no longer be used for the CKAD exam
+* This repository can now only be used for reference purposes
+* This is due the the CNCF migrating from the [PSI’s ExamsLocal platform to the PSI Bridge platform](https://training.linuxfoundation.org/bridge-migration-2021/)
+
+* A set of reference bookmarks for the CKAD exam
+* The CKAD exam is an open book exam and you are permitted to access [assets](https://docs.linuxfoundation.org/tc-docs/certification/certification-resources-allowed#certified-kubernetes-administrator-cka-and-certified-kubernetes-application-developer-ckad) from:
   * https://helm.sh/docs
   * https://kubernetes.io/docs
   * https://github.com/kubernetes
