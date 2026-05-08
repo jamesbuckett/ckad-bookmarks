@@ -1,24 +1,25 @@
 # CKAD bookmarks
 
-A curated set of browser bookmarks covering [kubernetes.io/docs](https://kubernetes.io/docs) for the CKAD, CKA, and CKS Kubernetes certification exams. Now retained for **reference only** — see status note below.
+A curated set of browser bookmarks for the CKAD (Certified Kubernetes Application Developer), CKA (Certified Kubernetes Administrator), and CKS (Certified Kubernetes Security Specialist) exams, drawn primarily from [kubernetes.io/docs](https://kubernetes.io/docs). Now retained for **reference only** — see status note below.
 
-![kubernetes-ckad-color-300x294](https://user-images.githubusercontent.com/18049790/135700746-b796e9c6-f768-483a-9935-199deeb27262.png)
+![Kubernetes CKAD logo](https://user-images.githubusercontent.com/18049790/135700746-b796e9c6-f768-483a-9935-199deeb27262.png)
 
 ## Status
 
-* This repository can no longer be used during the CKAD exam.
+* This repository can no longer be used during the CKAD, CKA, or CKS exams.
 * It is now retained for reference purposes only.
 * This is due to the migration from the [PSI ExamsLocal platform to the PSI Bridge platform](https://training.linuxfoundation.org/bridge-migration-2021/).
 
 ## Permitted Domains
 
-* A set of reference bookmarks for the CKAD exam.
-* The CKAD exam is open book and you are permitted to access [assets](https://docs.linuxfoundation.org/tc-docs/certification/certification-resources-allowed#certified-kubernetes-administrator-cka-and-certified-kubernetes-application-developer-ckad) from:
-  * [helm.sh/docs](https://helm.sh/docs)
-  * [kubernetes.io/docs](https://kubernetes.io/docs)
-  * [github.com/kubernetes](https://github.com/kubernetes)
-  * [kubernetes.io/blog](https://kubernetes.io/blog)
-* This repository is a set of curated links from [kubernetes.io/docs](https://kubernetes.io/docs).
+The CKAD exam is open book. Per the Linux Foundation's [list of allowed assets](https://docs.linuxfoundation.org/tc-docs/certification/certification-resources-allowed#certified-kubernetes-administrator-cka-and-certified-kubernetes-application-developer-ckad), candidates may access:
+
+* [helm.sh/docs](https://helm.sh/docs)
+* [kubernetes.io/docs](https://kubernetes.io/docs)
+* [github.com/kubernetes](https://github.com/kubernetes)
+* [kubernetes.io/blog](https://kubernetes.io/blog)
+
+The bookmarks in this repository are drawn primarily from `kubernetes.io/docs`, with additional references on the CKS section (e.g., `falco.org`, `aquasecurity.github.io`) for security-specific topics.
 
 ## Bonus Content
 
