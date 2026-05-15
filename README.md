@@ -1,5 +1,13 @@
 # CKAD bookmarks
 
+[![License](https://img.shields.io/github/license/jamesbuckett/ckad-bookmarks)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/jamesbuckett/ckad-bookmarks)](https://github.com/jamesbuckett/ckad-bookmarks/stargazers)
+[![Forks](https://img.shields.io/github/forks/jamesbuckett/ckad-bookmarks)](https://github.com/jamesbuckett/ckad-bookmarks/network/members)
+[![Top language](https://img.shields.io/github/languages/top/jamesbuckett/ckad-bookmarks)](https://github.com/jamesbuckett/ckad-bookmarks)
+![CKAD](https://img.shields.io/badge/CKAD-exam-326CE5?logo=kubernetes&logoColor=white)
+![CKA](https://img.shields.io/badge/CKA-exam-326CE5?logo=kubernetes&logoColor=white)
+![CKS](https://img.shields.io/badge/CKS-exam-326CE5?logo=kubernetes&logoColor=white)
+
 A curated set of browser bookmarks for the CKAD (Certified Kubernetes Application Developer), CKA (Certified Kubernetes Administrator), and CKS (Certified Kubernetes Security Specialist) exams, drawn primarily from [kubernetes.io/docs](https://kubernetes.io/docs). Now retained for **reference only** — see status note below.
 
 ![Kubernetes CKAD logo](https://user-images.githubusercontent.com/18049790/135700746-b796e9c6-f768-483a-9935-199deeb27262.png)
